@@ -1,3 +1,0 @@
-This is c.txt
-
-This is a change to file c.txt
