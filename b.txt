@@ -3,3 +3,4 @@ This is file b.txt
 This is a change to the file b.txt
 
 This is a different change to file b.txt
+
